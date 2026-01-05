@@ -14,7 +14,7 @@ This project automates Spotify playlist management and YouTube content optimizat
 </p>
 <p align="center">
 Created by Appilot, built to showcase our approach to Automation! <br>
-If you are looking for custom <strong>  </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
+If you are looking for custom spotify youtube automation mobile <strong>  </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
 </p>
 
 ## Introduction
